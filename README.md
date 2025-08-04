@@ -71,3 +71,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalmodak&theme=dark&ring=FF5733&fire=FF5733&currStreakLabel=FF5733" alt="GitHub Streak Stats" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BishalModak&theme=github_dark" />
+</p>
+
