@@ -1,79 +1,108 @@
-<h1 align="center">Hi 👋, I'm Bishal</h1>
-<h3 align="center">A Programmer</h3>
+<div align="center">
+  <img src="github-banner.png" alt="Profile Banner" width="100%" />
+</div>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bishalmodak&theme=monokai" alt="bishalmodak"/>
-  </a> 
-</p>
+<br/>
 
-- 🌱 I’m currently learning **Flutter**  
-- 📫 How to reach me **bishalchandromodak@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/bishal chandro modak" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal chandro modak" height="30" width="40" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+Mobile+%26+Web+Developer;Full-Stack+Django+Enthusiast;Flutter+App+Developer;Always+Learning+and+Building" 
+      alt="Typing SVG" 
+    />
   </a>
-  <a href="https://fb.com/bishal.modak.7798" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishal.modak.7798" height="30" width="40" />
+</div>
+
+<br/>
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=bishalmodak&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
+</div>
+
+<br/>
+
+### 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td width="60%">
+      
+- 🌱 I’m currently deep-diving into **Flutter** and mastering **Full-Stack Web Development with Django**.
+- 💻 I love building web apps, working on machine learning basics, and writing clean code in **Python** and **C/C++**.
+- 🤝 I’m open to collaborating on open-source projects or fun web/mobile app ideas.
+- 📫 How to reach me: **[bishalchandromodak@gmail.com](mailto:bishalchandromodak@gmail.com)**
+
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="350" style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🌍 Connect with me
+
+<br/>
+
+<div align="center">
+  <a href="https://www.facebook.com/bishal.modak.7798/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ae958c6e-d773-480d-b91b-ee3d8a284df7" alt="Facebook" height="40" />
   </a>
-</p>
+  &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/bishal-chandro-modak/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/27ab11e1-caee-472f-b013-2a47c4b2c58f" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/_bishalmodak_" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c466ac15-fb9d-44a9-87a8-66827ed50ef3" alt="X" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bishalchandromodak@gmail.com">
+    <img src="https://github.com/user-attachments/assets/c11b6c1a-f470-45f4-9d09-95a7bd3c7945" alt="Gmail" height="40" />
+  </a>
+  
+  
+</div>
+<br/>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalmodak&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FF5733&text_color=FFFFFF&bg_color=151515" alt="Top Languages" />
-</p>
+### 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishalmodak&show_icons=true&locale=en&theme=dark&title_color=FF5733&text_color=FFFFFF&bg_color=151515" alt="GitHub Stats" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalmodak&theme=dark&ring=FF5733&fire=FF5733&currStreakLabel=FF5733" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,js,php,html,css,bootstrap" alt="Programming Languages" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=django,flutter,react,mysql,sqlite,firebase,git,linux,postman,matlab" alt="Frameworks & Tools" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+### 📊 GitHub Stats
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bishalmodak&show_icons=true&locale=en&theme=tokyonight&hide_border=false&bg_color=0D1117" alt="GitHub Stats" width="47%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=bishalmodak&theme=tokyonight&hide_border=false&background=0D1117" alt="GitHub Streak" width="47%" />
+</div>
+
+<br/>
+
+---
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BishalModak&theme=github_dark" />
-</p>
+### 🐍 Contribution Snake
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
